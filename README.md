@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/falahgs-brave-gemini-research-mcp-server-badge.png)](https://mseep.ai/app/falahgs-brave-gemini-research-mcp-server)
+
 # Brave-Gemini Research MCP Server
 
 A modern MCP (Model Context Protocol) server implementation that provides AI assistants with web search capabilities via the Brave Search API and advanced research paper analysis with Google's Gemini model.
